@@ -1,0 +1,6 @@
+{
+  "name": "Hello-world",
+  "tagline": "My testrepo",
+  "body": "# Hello world!\r\n\r\nThis is my testpage.\r\n\r\n[logo]: https://github.com/kadrihendla/hello-world/blob/master/images/k.jpg \"Logo Title Text 2\"\r\n\r\n![Image test](https://github.com/kadrihendla/hello-world/blob/master/images/k.jpg \"This is an image\")\r\n\r\n[This is a link](https://www.google.com)\r\n\r\n[This is the licence](LICENSE)\r\n\r\nTestline\r\n\r\nTestline added from TortoiseGit",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
